@@ -1,0 +1,15 @@
+C:\Users\picap\source\repos\DistanceAndCordinates\DistanceAndCordinates\bin\Debug\DistanceAndCordinates.dll
+C:\Users\picap\source\repos\DistanceAndCordinates\DistanceAndCordinates\bin\Debug\DistanceAndCordinates.pdb
+C:\Users\picap\source\repos\DistanceAndCordinates\DistanceAndCordinates\bin\Debug\Assembly-CSharp.dll
+C:\Users\picap\source\repos\DistanceAndCordinates\DistanceAndCordinates\bin\Debug\com.rlabrecque.steamworks.net.dll
+C:\Users\picap\source\repos\DistanceAndCordinates\DistanceAndCordinates\bin\Debug\Rocket.API.dll
+C:\Users\picap\source\repos\DistanceAndCordinates\DistanceAndCordinates\bin\Debug\Rocket.Core.dll
+C:\Users\picap\source\repos\DistanceAndCordinates\DistanceAndCordinates\bin\Debug\Rocket.Unturned.dll
+C:\Users\picap\source\repos\DistanceAndCordinates\DistanceAndCordinates\bin\Debug\SDG.NetTransport.dll
+C:\Users\picap\source\repos\DistanceAndCordinates\DistanceAndCordinates\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\picap\source\repos\DistanceAndCordinates\DistanceAndCordinates\bin\Debug\UnityEngine.dll
+C:\Users\picap\source\repos\DistanceAndCordinates\DistanceAndCordinates\obj\Debug\DistanceAndCordinates.csproj.AssemblyReference.cache
+C:\Users\picap\source\repos\DistanceAndCordinates\DistanceAndCordinates\obj\Debug\DistanceAndCordinates.csproj.CoreCompileInputs.cache
+C:\Users\picap\source\repos\DistanceAndCordinates\DistanceAndCordinates\obj\Debug\Distance.3F2910EA.Up2Date
+C:\Users\picap\source\repos\DistanceAndCordinates\DistanceAndCordinates\obj\Debug\DistanceAndCordinates.dll
+C:\Users\picap\source\repos\DistanceAndCordinates\DistanceAndCordinates\obj\Debug\DistanceAndCordinates.pdb
