@@ -3,7 +3,7 @@ The DistanceAndCoordinates plugin is a simple, handy tool for Unturned servers. 
 
 What You Can Do:
 Change Message Color: Pick a color for the chat messages to fit your server’s theme.
-Customize Icon: Add a custom icon link to personalize the chat icon.
+Customize Icon: Add a custom icon link to personalize the message icon.
 
 # Example Configuration:
 ```
